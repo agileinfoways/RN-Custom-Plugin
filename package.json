@@ -1,6 +1,6 @@
 {
   "name": "react-native-my-testing-library",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "## Getting started",
   "main": "index.js",
   "scripts": {
@@ -21,10 +21,10 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sachinsoni1991/RNTestingLibrary.git"
+    "url": "git+https://github.com/agileinfoways/RN-Custom-Plugin.git"
   },
   "bugs": {
-    "url": "https://github.com/sachinsoni1991/RNTestingLibrary/issues"
+    "url": "https://github.com/agileinfoways/RN-Custom-Plugin/issues"
   },
-  "homepage": "https://github.com/sachinsoni1991/RNTestingLibrary#readme"
+  "homepage": "https://github.com/agileinfoways/RN-Custom-Plugin#readme"
 }
