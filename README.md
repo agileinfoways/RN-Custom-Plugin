@@ -48,6 +48,6 @@
 import RNMyTestingLibrary from 'react-native-my-testing-library';
 
 // TODO: What to do with the module?
-RNMyTestingLibrary;
+RNMyTestingLibrary.show("Text you want to display");
 ```
   
