@@ -1,0 +1,30 @@
+{
+  "name": "react-native-my-testing-library",
+  "version": "1.0.2",
+  "description": "## Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "npmdhara",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinsoni1991/RNTestingLibrary.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sachinsoni1991/RNTestingLibrary/issues"
+  },
+  "homepage": "https://github.com/sachinsoni1991/RNTestingLibrary#readme"
+}
